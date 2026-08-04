@@ -1,12 +1,21 @@
 
+
 **Mobile view:**
+
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d3a52b4f-5dae-431a-b84a-6ed87dcc4796" />
+
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/49933308-7d86-411c-8390-7f73ffdea7f5" />
+
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3c33153a-86ca-4741-91ba-9ee4e2911d4c" />
 
+
+
 **Tablet, PC view:**
+
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/48b00628-7d5c-443b-8482-3b6990f3490d" />
+
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/4d309688-f7f4-42da-82bb-41032b102727" />
+
 
 
 
