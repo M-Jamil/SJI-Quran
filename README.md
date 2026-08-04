@@ -10,22 +10,23 @@
 
 
 
+
 **About this app**:
 
-Ad Free Tajweed Quran, 14 Language Translations, Recitation & Qibla Directions
+Ad Free Tajweed Quran, 14 Language Translations, Recitation & Qibla Directions.
+
 This app provides a seamless and beautiful Tajweed Quran reading experience for Muslims worldwide.
 
 **KEY FEATURES:**
 
-•⁠  ⁠Fully Ad free & Quran reading
-•⁠  ⁠Quran recitation - Mahmoud Khalil Al-Husary
-•⁠  ⁠Quran Tajweed with 14 different Translation languages
-•⁠  ⁠User friendly setting options.
-•⁠  ⁠Read the entire Quran with easy Navigation.
-•⁠  ⁠Includes Juzz list & Surah indexes that allow searches.
-•⁠  ⁠Add bookmarks in one touch.
-•⁠  ⁠Auto remember last read Ayah in "Continue Reading"
-•⁠  ⁠Add notes as you read.
-•⁠  ⁠User friendly app themes for best viewing
-•⁠  ⁠Qibla directions
-
+- Fully Ad free & Quran reading.
+- ⁠Quran recitation - Mahmoud Khalil Al-Husary
+- ⁠Quran Tajweed with 14 different Translation languages
+- ⁠User friendly setting options.
+- ⁠Read the entire Quran with easy Navigation.
+- ⁠Includes Juzz list & Surah indexes that allow searches.
+- ⁠Add bookmarks in one touch.
+- ⁠Auto remember last read Ayah in "Continue Reading"
+- Add notes as you read.
+- ⁠User friendly app themes for best viewing
+- Qibla directions
