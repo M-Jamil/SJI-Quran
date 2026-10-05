@@ -127,4 +127,3 @@ If you have any questions or concerns about this Privacy Policy or the privacy p
 
 ---
 
-*This privacy policy is specifically written for **SJI Tajweed Quran** (`com.sji.sjiquran`), developed and published by **SJI**, as listed on the Google Play Store. All details — app name, package ID, and developer name — match the Play Store listing exactly, in compliance with Google Play's User Data policy.*
