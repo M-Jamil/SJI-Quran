@@ -1,6 +1,5 @@
 
 # SJI Tajweed Quran :
-# ------------------
 
 
 **For Android devices, please download from Google Playstore:**
