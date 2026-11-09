@@ -4,7 +4,7 @@
 No Ads, completely free and local (no internet is required once downloaded):
 
 
-[!(<img width="300" height="89" alt="google-playstore-icon-en" src="https://github.com/user-attachments/assets/61d3d7af-b468-4210-8718-fe383104c148" />)](https://play.google.com/store/apps/details?id=com.sji.sjiquran&pcampaignid=web_share)
+[<img width="300" height="89" alt="google-playstore-icon-en" src="https://github.com/user-attachments/assets/61d3d7af-b468-4210-8718-fe383104c148" />](https://play.google.com/store/apps/details?id=com.sji.sjiquran&pcampaignid=web_share)
 
 
 
